@@ -1,0 +1,11 @@
+frmAbout = 132, 174, 767, 542, Z, 88, 116, 723, 484, C
+modToolBar = 44, 58, 625, 426, 
+modVarDeclaration = 110, 145, 691, 513, 
+modDBFunction = 88, 116, 669, 484, 
+frmRecruiter = 159, 42, 850, 722, , 229, 197, 989, 814, C
+frmNewEditContact = 88, 116, 593, 485, , 132, 174, 678, 543, C
+frmSearch = 22, 29, 445, 398, , 44, 58, 475, 427, C
+frmInfo = 44, 58, 597, 427, , 66, 87, 497, 456, C
+modExternalApp = 0, 0, 553, 369, 
+frmSearchResult = 44, 58, 506, 427, , 44, 58, 490, 427, C
+modPopulateListView = 0, 0, 326, 426, 
